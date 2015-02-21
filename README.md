@@ -3,6 +3,8 @@ Use this set of web services to create forms and form fields in a free database 
 
 You can see the list of all the currently available forms at http://formgram5.azurewebsites.net/m/Forms.aspx?formListEnum=1&username=guest
 
+Once you find the form you'd like to use, get the multipage_form_id of that form from the URL that shows up on your browser. For example, multipage_form_id of the HK Computer Services form is 10488
+http://formgram5.azurewebsites.net/m/OpenForm.aspx?multipage_form_id=10488&username=guest
 
 In the next release, you'll be able to create your own forms and other apps/people can use your new forms too.
 
