@@ -1,5 +1,5 @@
 # Formgram
-Create forms and form fields in a free database then render them on the page and save information typed into those fields back into the free database.
+Create forms and form fields in a free database then display the form and save information typed into those fields back into the free database.
 
 You can see the list of all the available forms at http://formgram5.azurewebsites.net/m/forms.aspx
 
