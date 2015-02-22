@@ -26,6 +26,15 @@ Update that multipage_form_id in this Formgram Example XCode then build and run.
 
 You'll see an example appointment form show up and your users will be able to fill out this sample form.
 
+<h1>Anyone can fill out the form now</h1>
+You can type anything in this form, choose from the drop down lists, etc.
+
+For anyone else to fill out this same form, just send them the link (in urlWithFormIds).
+
+<h1>Save the form</h1>
+select the save button at the bottom of the form.
+
+<h1>From any device, anywhere, anytime, check out what you and others have filled out in the form</h1>
 To see what your user has filled out in this form, go to the URL that's composed in XCode in the NSString urlWithFormIds.
 
 Alternatively, you can use any computer/mobile device to go to http://formgram5.azurewebsites.net/m/report.aspx?form_version_id=66&username=guest
