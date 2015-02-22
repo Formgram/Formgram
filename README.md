@@ -36,6 +36,10 @@ For anyone else to fill out this same form, just send them the link (in urlWithF
 <h1>Save the form</h1>
 select the save button at the bottom of the form.
 
+Ignore the error message that shows up saying "Server Error in '/m' Application. Object reference not set to an instance of an object..."
+
+This secuirty error is showing up since the user has not registered on formgram.com and is trying to login as guest.  This is ok since we're using a generic guest account.  The information typed into the form "is" saved however.  So you can see what saved by going to the URL in urlWithFormIds.
+
 <h1>From any device, anywhere, anytime, check out what you and others have filled out in the form</h1>
 To see what your user has filled out in this form, go to the URL that's composed in XCode in the NSString urlWithFormIds.
 
