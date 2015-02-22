@@ -1,6 +1,10 @@
 # Formgram
 Use this set of web services to create forms and form fields in a free database then display the form and save information typed into those fields back into the free database.
 
+This is the initial release of Formgram to help others tap into a shared cloud of existing forms.
+
+This is done using web services to be cross-platform so any technology stack (such as Android, javascript, iOS, even desktop, etc.) can take advantage of this.
+
     int multipageFormGroupInstanceId = [self AddFormInstance:18 myUsername:@"guest"];
 
     NSString *urlWithFormIds = [NSString stringWithFormat:@"http://formgram5.azurewebsites.net/m/openform.aspx?multipage_form_id=%d&navigation=0&multipage_form_group_instance_id=%d&username=guest", 18, multipageFormGroupInstanceId];
