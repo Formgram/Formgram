@@ -17,7 +17,7 @@ Change this number to any other identifier to show a different form.
 
 You can see the list of all the currently available forms at http://formgram5.azurewebsites.net/m/Forms.aspx?formListEnum=1&username=guest
 
-Once you find the form you'd like to use, get the multipage_form_id of that form from the URL that shows up on your browser. For example, multipage_form_id of the Computer Services Appointment form at
+Once you find the form you'd like to use, get the multipage_form_id of that form from the URL that shows up on your browser. For example, multipage_form_id of this example Appointment form at
 http://formgram5.azurewebsites.net/m/OpenForm.aspx?multipage_form_id=18&username=guest
 is 18.
 
